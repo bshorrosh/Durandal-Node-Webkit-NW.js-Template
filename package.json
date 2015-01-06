@@ -1,0 +1,20 @@
+{
+  "name": "Durandal Node-Webkit Desktop Sample",
+  "main": "index.html",
+  "description": "Durandal Node-Webkit Desktop Sample",
+  "version": "0.0.1",
+  "keywords": [
+    "durandal",
+    "node-webkit"
+  ],
+  "window": {
+    "show": false,
+    "title": "Durandal Node-Webkit Desktop Sample",
+    "icon": "content/images/icon.png",
+    "toolbar": false,
+    "frame": true,
+    "debug": true,
+    "width": 1000,
+    "height": 800
+  }
+}
