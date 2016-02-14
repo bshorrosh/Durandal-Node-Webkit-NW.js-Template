@@ -16,7 +16,7 @@ In osx, you can run the application by following these steps:<br/>
 
 1. Open the terminal.<br/>
 2. Paste the path to "lib/node-webkit-v0.11.5-osx-x64/node-webkit.app/Contents/MacOS/node-webkit.<br/>
-2. Add a space at the end of step 1 (after the node-webkit).<br/>
+2. Add a space at the end of step 2 (after the node-webkit).<br/>
 3. Paste the path to the application folder (Durandal-Node-Webkit-Template) after the space in step 2.<br/>
 4. Click the enter key on the keyboard.<br/>
 
