@@ -26,7 +26,7 @@ This template was developed using Webstorm JavaScript IDE (<a href="https://www.
 
 References:
 
-1. Node-Webkit Site:<br/>
+1. Node-Webkit/NW.js Site:<br/>
 https://github.com/rogerwang/node-webkit
 
 2. Durandal html starter kit:<br/>
