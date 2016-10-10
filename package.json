@@ -1,5 +1,5 @@
 {
-  "name": "Durandal Node-Webkit Desktop Sample",
+  "name": "durandalsample",
   "main": "index.html",
   "description": "Durandal Node-Webkit Desktop Sample",
   "version": "0.0.1",
@@ -16,5 +16,8 @@
     "debug": true,
     "width": 1000,
     "height": 800
+  },  
+  "scripts": {
+    "start": "nw ."
   }
 }
